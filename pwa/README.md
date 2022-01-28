@@ -1,0 +1,1 @@
+pwa displaying list of items for performance analysis
